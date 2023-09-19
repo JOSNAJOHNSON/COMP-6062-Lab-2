@@ -7,7 +7,7 @@
       <form action = " " method = "POST">
         <div class = "mb - 8" >
           <label for = " username " > Username : </label>
-          <input id = "username" name = "username "
+          <input id ="username" name = "username "
             type = "username" placeholder = "username"
             <label for="username">Username</label>
           <input type="text" id="username" name="username" required minlength="5" maxlength="8" size="10" />
