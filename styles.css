@@ -19,3 +19,13 @@ input,
 label {
 	  margin: 0.4rem 0;
 	}
+p,
+label {
+  font:
+    1rem 'Fira Sans',
+    sans-serif;
+}
+
+input {
+  margin: 0.4rem;
+}
