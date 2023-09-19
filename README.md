@@ -23,9 +23,10 @@
   <legend>Remember me:</legend>
 
   <div>
-    <input type="checkbox" id="scales" name="scales" checked />
-    
+    <input type="checkbox" id=" " name=" " checked />
+   
   </div>
+  
 </fieldset>
   </head>
 </html>
