@@ -26,7 +26,7 @@
     <input type="checkbox" id=" " name=" " checked />
    
   </div>
-  
+  <button class="favorite styled" type="button">Login</button>
 </fieldset>
   </head>
 </html>
