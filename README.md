@@ -19,18 +19,13 @@
             <label for="password">Password</label>
           <input type="text" id="password" name="password" required minlength="5" maxlength="8" size="10" />
             </div>
-        <fieldset>
-            <legend>Remember me:</legend>
-          
-            <div>
-              <input type="checkbox" id="scales" name="scales" checked />
-              <label for="scales">Scales</label>
-            </div>
-          
-            <div>
-              <input type="checkbox" id="horns" name="horns" />
-              <label for="horns">Horns</label>
-            </div>
-    </fieldset>
+       <fieldset>
+  <legend>Remember me:</legend>
+
+  <div>
+    <input type="checkbox" id="scales" name="scales" checked />
+    
+  </div>
+</fieldset>
   </head>
 </html>
