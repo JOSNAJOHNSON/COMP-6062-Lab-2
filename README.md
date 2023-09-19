@@ -1,5 +1,8 @@
 <html>
   <head>
+    <head>
+   <link href="styles.css" rel="stylesheet" /> 
+    </head>
     <section>
       <form action = " " method = "POST">
         <div class = "mb - 8" >
